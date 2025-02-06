@@ -1,2 +1,9 @@
 Console.WriteLine("My name is Muhammad Abdullah ");
 Console.WriteLine("My Roll No. is 24-ST-020");
+Console.WriteLine("SDLC");
+Console.WriteLine("OOP");
+Console.WriteLine("SCM");
+Console.WriteLine("Probability and Statistics");
+Console.WriteLine("Quran Translation");
+Console.WriteLine("Functional English");
+Console.WriteLine("Decrete Structure");
