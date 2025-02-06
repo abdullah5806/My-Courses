@@ -1,5 +1,13 @@
 Console.WriteLine("My name is Muhammad Abdullah ");
 Console.WriteLine("My Roll No. is 24-ST-020");
+1st-Semester
+Console.WriteLine("Computer Programming");
+Console.WriteLine("ITS");
+Console.WriteLine("Islamiat");
+Console.WriteLine("Applied Physics");
+Console.WriteLine("EHS");
+Console.WriteLine("Calculas");
+2nd-Semester
 Console.WriteLine("SDLC");
 Console.WriteLine("OOP");
 Console.WriteLine("SCM");
