@@ -1,2 +1,9 @@
 Console.WriteLine("My name is Muhammad Abdullah ");
 Console.WriteLine("My Roll No. is 24-ST-020");
+Console.WriteLine("English");
+Console.WriteLine("Urdu");
+Console.WriteLine("Math");
+Console.WriteLine("Islamiat");
+Console.WriteLine("Tarjama-tul-Quran");
+Console.WriteLine("Computer");
+Console.WriteLine("Statistics");
